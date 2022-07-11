@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1622223919 source:c:\codeblocks_workspace\mehmetsubasi\main.cpp
+	<iostream>
+	<INumberSearch.h>
+	<Subtract.h>
+	<Multiply.h>
+	<Summation.h>
+	<Divide.h>
+	<string>
+	<sstream>
+
+1622190848 source:c:\codeblocks_workspace\mehmetsubasi\src\divide.cpp
+	"Divide.h"
+	<iostream>
+
+1622190848 c:\codeblocks_workspace\mehmetsubasi\include\divide.h
+	<iostream>
+	<INumberSearch.h>
+
+1622194629 c:\codeblocks_workspace\mehmetsubasi\include\inumbersearch.h
+	<iostream>
+	<vector>
+
+1622190848 source:c:\codeblocks_workspace\mehmetsubasi\src\multiply.cpp
+	"Multiply.h"
+	<iostream>
+
+1622189671 c:\codeblocks_workspace\mehmetsubasi\include\multiply.h
+	<iostream>
+	<INumberSearch.h>
+
+1622190848 source:c:\codeblocks_workspace\mehmetsubasi\src\subtract.cpp
+	"Subtract.h"
+	<iostream>
+	<INumberSearch.h>
+
+1622190848 c:\codeblocks_workspace\mehmetsubasi\include\subtract.h
+	<iostream>
+	<INumberSearch.h>
+
+1622190848 source:c:\codeblocks_workspace\mehmetsubasi\src\summation.cpp
+	"Summation.h"
+	<iostream>
+
+1622190848 c:\codeblocks_workspace\mehmetsubasi\include\summation.h
+	<iostream>
+	<INumberSearch.h>
+
+1622195020 source:c:\codeblocks_workspace\mehmetsubasi\src\inumbersearch.cpp
+	"INumberSearch.h"
+	"Summation.h"
+	"Multiply.h"
+	"Divide.h"
+	"Subtract.h"
+	<functional>
+	<iostream>
+	<memory>
+
